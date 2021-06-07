@@ -1,0 +1,2 @@
+rootProject.name = "Exo_06_PokeApp"
+include ':app'
